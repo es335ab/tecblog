@@ -13,7 +13,7 @@
 <?php if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
 	<div id="secondary" class="widget-area sub" role="complementary">
 	<div class="sub-content center">
-    <a href="#"><img src="/blog/wp-content/themes/teclife/img/bn_recruit.png" alt="採用ページはこちら"></a>
+    <a href="#"><img src="/wp-content/themes/teclife/img/bn_recruit.png" alt="採用ページはこちら"></a>
   </div>
   <section class="sub-content list-content">
   <h1 class="heading-list">カテゴリー</h1>
