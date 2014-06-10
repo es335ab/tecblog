@@ -35,8 +35,8 @@
 <body <?php body_class(); ?>>
 <header class="header">
   <div class="in">
-    <p class="author-corporate"><img src="/wp-content/themes/teclife/img/logo.png" alt="Recruit Lifestyle Co.,Ltd."></p>
-    <h1 class="site-title"><img src="/wp-content/themes/teclife/img/site_name.png" alt="Techlife in RLS"></h1>
+    <p class="author-corporate"><img src="/wp-content/themes/tecblog/img/logo.png" alt="Recruit Lifestyle Co.,Ltd."></p>
+    <h1 class="site-title"><img src="/wp-content/themes/tecblog/img/site_name.png" alt="Techlife in RLS"></h1>
   </div>
 </header>
 
